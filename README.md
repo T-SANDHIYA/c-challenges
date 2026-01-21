@@ -1,1 +1,1 @@
-# c-challenges
+# coding-challenges
